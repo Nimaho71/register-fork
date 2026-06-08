@@ -1,9 +1,8 @@
 {
     "owner": {
-        "username": "Nimaho71",
-        "email": "nils.oi.hogberg@gmail.com"
+        "username": "Nimaho71"
     },
-    "record": {
+    "records": {
         "CNAME": "nilshogberg.vercel.app"
     }
 }
